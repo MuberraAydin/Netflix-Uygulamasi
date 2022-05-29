@@ -1,5 +1,5 @@
 # Netflix-Uygulamasi
-Programlama Lab. 2 - 3. Proje
+KOÜ Programlama Lab. 2 - 3. Proje
 
 Giriş:
 
